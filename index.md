@@ -6,7 +6,7 @@
 Prompts:
 
 **1) What is the most interesting topic covered in your domain this quarter?**
-banana
+I thought that the concept of rotary positional embedding was a really interesting way to handle embedding the nuances of positional information.
 
 **2) Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 banana
